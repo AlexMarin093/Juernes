@@ -1,0 +1,28 @@
+p{
+    color:blue;
+    background-color: brown;
+}
+
+h1{
+    color: aqua;
+}
+h3{
+    color: crimson;
+}
+#encabezado-cuatro{
+    color:green;
+}
+.color-red{
+    color:red;
+}
+.color-blue{
+    color:blue;
+}
+body{
+    background-image: url(https://pastoralsj.org/images/peliculas/13reasons.jpg);
+    background-size: cover;
+}
+.Reasons{
+    color:yellow ;
+    background-color: black;
+}
